@@ -1,13 +1,23 @@
-import { createApp } from 'vue';
 import { createRouter, createWebHistory } from 'vue-router';
-import App from './App.vue';
-import Home from './components/Home.vue';
+import Home from '@/views/Home.vue';
+import Haiku from '@/views/Haiku.vue';
+
+const routes = [
+  {
+    path: '/',
+    name: 'home',
+    component: Home
+   },
+  {
+    path: '/haiku',
+    name: 'haiku',
+    component: Haiku
+   }
+]
 
 const router = createRouter({
         history: createWebHistory(),
-        routes: [
-          { path: '/', component: Home },
-        ]
-      });
-      
-createApp(App).use(router);
+        routes,
+});
+
+export default router;

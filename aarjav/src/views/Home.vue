@@ -1,11 +1,11 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
+  <div>
+    <h1>aarjav</h1>
     <hr />
     <h4>aarjav.chauhan@colorado.edu</h4>
     <a rel="icon" href="/aarjavCV.pdf" target="_blank">curriculum vitae</a>
     <h2>other projects &#8595;</h2>
-    <h5>haiku generator</h5>
+     <router-link to="/haiku">Haiku</router-link>
     <hr />
   </div>
 </template>
