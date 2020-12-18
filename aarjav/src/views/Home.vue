@@ -5,7 +5,7 @@
     <h4>aarjav.chauhan@colorado.edu</h4>
     <a rel="icon" href="/aarjavCV.pdf" target="_blank">curriculum vitae</a>
     <h2>other projects &#8595;</h2>
-     <router-link to="/haiku">Haiku</router-link>
+     <router-link to="/haiku">haiku generator</router-link>
     <hr />
   </div>
 </template>
