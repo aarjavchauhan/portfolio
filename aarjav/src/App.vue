@@ -38,6 +38,11 @@ a {
   /* letter-spacing: 2vw; */
 }
 
+hr {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 .fade-enter-active
  {
   transition: opacity 1s ease;
