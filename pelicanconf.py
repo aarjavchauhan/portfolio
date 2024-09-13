@@ -31,6 +31,8 @@ SOCIAL = (
     ("Another social link", "#"),
 )
 
+STATIC_PATHS = ['files']
+
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing

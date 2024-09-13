@@ -15,6 +15,6 @@ My current research examines the ways technologies and online communities can be
 
 [aarjav@cs.toronto.edu][def2]
 
-[def]: /curriculum_vitae.pdf
+[def]: {static}/files/curriculum_vitae.pdf
 [def1]: https://scholar.google.com/citations?user=Moh_sCUAAAAJ&hl=en
 [def2]: mailto:aarjav@cs.toronto.edu
