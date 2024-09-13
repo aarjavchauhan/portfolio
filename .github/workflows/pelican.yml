@@ -4,12 +4,12 @@ on:
     branches: ["main"]
   workflow_dispatch:
 jobs:
-  Deploy:
-    uses: seanh/ghp-pelican/.github/workflows/pelican.yml@main
+  deploy:
+    uses: "getpelican/pelican/.github/workflows/github_pages.yml@main"
     permissions:
-      contents: read
-      pages: write
-      id-token: write
+      contents: "read"
+      pages: "write"
+      id-token: "write"
     with:
       settings: "publishconf.py"
       requirements: "pelican[markdown] typogrify"
