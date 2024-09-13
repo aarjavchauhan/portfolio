@@ -1,4 +1,4 @@
-name: Deploy
+name: Deploy Pelican Site
 on:
   push:
     branches: ["main"]
@@ -12,3 +12,4 @@ jobs:
       id-token: write
     with:
       settings: "publishconf.py"
+      requirements: "pelican[markdown] typogrify"
