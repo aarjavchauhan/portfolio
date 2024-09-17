@@ -7,7 +7,7 @@ Category: Home
 Hi! 
 I am currently a PhD Student at the University of Toronto in the Department of Computer Science working on human-computer interaction, the commons, and climate adaptation practices. 
 
-My current research examines the ways technologies and online communities can be designed as commons to support the democratic production of knowledge through collaborative efforts. In particular, I try to understand the differents kinds of conflicts and tensions that emerge within commons-based models. I primarily employ qualitative, ethnographic, and participatory methods in my research.
+My current research examines the ways technologies and online communities can be designed as commons to support the democratic production of knowledge through collaborative efforts. In particular, I try to understand the different kinds of conflicts and tensions that emerge within commons-based models. I primarily employ qualitative, ethnographic, and participatory methods in my research.
 
 [Curriculum Vitae][def]
 
