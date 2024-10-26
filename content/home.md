@@ -5,9 +5,9 @@ Category: Home
  <!-- ![me](/aarjav.jpeg) -->
 
 Hi! 
-I am currently a PhD Student at the University of Toronto in the Department of Computer Science working on human-computer interaction, the commons, and climate adaptation practices. 
+I am currently a PhD Student at the University of Toronto in the Department of Computer Science working at the intersection of human-computer interaction (HCI) and the commons.
 
-My current research examines the ways technologies and online communities can be designed as commons to support the democratic production of knowledge through collaborative efforts. In particular, I try to understand the different kinds of conflicts and tensions that emerge within commons-based models. I primarily employ qualitative, ethnographic, and participatory methods in my research.
+My research examines efforts in online communities, such as Wikipedia and OpenStreetMap, that use commons-based approaches to navigate conflicts and engage in the collective production of knowledge. In particular, I am interested in exploring the patterns of conflicts and tensions that emerge in the governance of the commons, as well as identifying the conditions under which conflict may be a creative or generative force, rather than destructive to the efforts of these communities to collectively accomplish their goals.
 
 [Curriculum Vitae][def]
 
@@ -15,6 +15,13 @@ My current research examines the ways technologies and online communities can be
 
 [aarjav@cs.toronto.edu][def2]
 
+### Recent Publications 
+- [Value Tensions in OpenStreetMap: Openness, Membership, and Policy in Online Communities][paper1]
+- [Commoning as a Strategy for HCI Research and Design in South Asia][paper2]
+
 [def]: {static}/files/curriculum_vitae.pdf
 [def1]: https://scholar.google.com/citations?user=Moh_sCUAAAAJ&hl=en
 [def2]: mailto:aarjav@cs.toronto.edu
+
+[paper1]: {static}/files/OSM_value_tensions.pdf
+[paper2]: {static}/files/commoning_South_Asia.pdf
