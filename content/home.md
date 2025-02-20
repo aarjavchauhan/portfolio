@@ -12,7 +12,7 @@ My research examines efforts in online communities, such as Wikipedia and OpenSt
 ___
 
 ### Doctoral  Committee
-- <a href="http://robertsoden.io" target="_blank">Robert Soden (Advisor)</a>
+- <a href="http://robertsoden.io" target="_blank">Robert Soden (Supervisor)</a>
 - <a href="https://www.ishtiaque.net" target="_blank">Syed Ishtiaque Ahmed</a>
 - <a href="https://www.priyankc.com" target="_blank">Priyank Chandra</a>
 - <a href="https://www.cs.toronto.edu/~sme/" target="_blank">Steve Easterbrook</a>
