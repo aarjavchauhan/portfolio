@@ -22,7 +22,11 @@ ___
 - [Value Tensions in OpenStreetMap: Openness, Membership, and Policy in Online Communities. *Honorable Mention - Best Paper Award*][paper1]
 - [Commoning as a Strategy for HCI Research and Design in South Asia.][paper2]
 - [Exploring Community Needs for Disaster Shelters Using Cultural Probes.][paper3]
+___
 
+### Essays
+
+- [Following Primates *published in Platypus - The CASTAC Blog*](https://blog.castac.org/2025/03/following-primates/)
 ___
 
 ### Online
