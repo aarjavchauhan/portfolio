@@ -5,8 +5,7 @@ Category: Home
  <!-- ![me](/aarjav.jpeg) -->
 ___
 Hi! 
-I am currently a PhD candidate at the University of Toronto in the Department of Computer Science. I am interested in learning about the ways by which the design of technologies shape and intersect with the governance practices with collaborative and self-governing communities. I am an interdisciplinary researcher, drawing from approaches within human-computer interaction (HCI), computer supported co-operative work (CSCW), and science & technology studies (STS).
-
+I am currently a PhD candidate at the University of Toronto in the Department of Computer Science. I am interested in learning about the ways by which the design of technologies shape and intersect with the governance practices with collaborative and self-governing communities. I am an interdisciplinary researcher, drawing from qualitative, participatory, and ethnographic approaches within human-computer interaction (HCI), computer supported co-operative work (CSCW), and science & technology studies (STS).
 ___
 
 ### Doctoral  Committee
@@ -16,7 +15,7 @@ ___
 - <a href="https://www.cs.toronto.edu/~sme/" target="_blank">Steve Easterbrook</a>
 ___
 
-### Recent Publications 
+### Selected Publications 
 - [Digital Archives, Knowledge Conflicts, and Epistemic Injustices in the Himalayas][paper4]
 - [Value Tensions in OpenStreetMap: Openness, Membership, and Policy in Online Communities. *Honorable Mention - Best Paper Award*][paper1]
 - [Commoning as a Strategy for HCI Research and Design in South Asia.][paper2]
