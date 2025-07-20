@@ -31,7 +31,12 @@ SOCIAL = (
     ("Another social link", "#"),
 )
 
-STATIC_PATHS = ['files']
+STATIC_PATHS = ['files', 'extra']
+
+EXTRA_PATH_METADATA = {
+'extra/favicon.ico': {'path': 'favicon.ico'}
+}
+
 
 DEFAULT_PAGINATION = False
 
