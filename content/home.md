@@ -3,6 +3,8 @@ Date: '2024-01-01'
 Category: Home
  
  <!-- ![me](/aarjav.jpeg) -->
+
+![portrait]({static}/images/portrait.jpg)
 ___
 Hi! 
 I am currently a PhD candidate at the University of Toronto in the Department of Computer Science. I am interested in learning about the ways by which the design of technologies shape and intersect with the governance practices in collaborative and self-governing communities. I am an interdisciplinary researcher, drawing from qualitative, participatory, and ethnographic approaches within human-computer interaction (HCI), computer supported co-operative work (CSCW), and science & technology studies (STS).
@@ -43,3 +45,5 @@ ___
 [paper2]: {static}/files/commoning_South_Asia.pdf
 [paper3]: {static}/files/cultural_probes.pdf
 [paper4]: {static}/files/himalaya_archives.pdf
+
+[portrait]: {static}/images/portrait.jpg

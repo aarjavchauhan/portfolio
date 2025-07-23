@@ -57,6 +57,8 @@ time {
 /* line 51, ../../compass/src/main.scss */
 img {
   border: none;
+  max-width: 25%;
+  margin: 60px 0px 0 37.5%;
 }
 
 /* line 55, ../../compass/src/main.scss */
