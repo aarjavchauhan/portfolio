@@ -17,7 +17,8 @@ ___
 - <a href="https://www.cs.toronto.edu/~sme/" target="_blank">Steve Easterbrook</a>
 ___
 
-### Selected Publications 
+### Selected Publications
+- [Following Primates: Approaching Conflict in Contested Regions][paper5] 
 - [Digital Archives, Knowledge Conflicts, and Epistemic Injustices in the Himalayas][paper4]
 - [Value Tensions in OpenStreetMap: Openness, Membership, and Policy in Online Communities. *Honorable Mention - Best Paper Award*][paper1]
 - [Commoning as a Strategy for HCI Research and Design in South Asia.][paper2]
@@ -45,5 +46,6 @@ ___
 [paper2]: {static}/files/commoning_South_Asia.pdf
 [paper3]: {static}/files/cultural_probes.pdf
 [paper4]: {static}/files/himalaya_archives.pdf
+[paper5]: {static}/files/CHI26_aarjav.pdf
 
 [portrait]: {static}/images/portrait.jpg
